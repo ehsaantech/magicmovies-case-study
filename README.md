@@ -34,3 +34,44 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# MagicMovies Case Study 🎬✨
+
+A case study project showcasing the design, architecture, and implementation of the **MagicMovies** web application. This project highlights modern web development practices with a focus on UI/UX, scalability, and clean code.
+
+---
+
+## 🚀 Features
+
+- Responsive UI for both desktop and mobile
+- Dynamic content rendering
+- Component-based architecture
+- Clear folder structure for scalability
+- Easily customizable design
+- 🧩 **Task for student:** Implement Drag and Drop (DnD) functionality for ordering `prompt items.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Frontend Framework)
+- **Tailwind CSS** (Utility-first CSS)
+- **Lucide-react** (Icons)
+- **Zod** (Schema validation)
+- **React Hook Form** (Form handling)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/ehsaantech/magicmovies-case-study.git
+
+# Navigate into the project
+cd magicmovies-case-study
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev

@@ -4,13 +4,21 @@ A case study project showcasing the design, architecture, and implementation of 
 
 ---
 
-## 🚀 Features
-
-- Responsive UI for both desktop and mobile
-- Dynamic content rendering
-- Component-based architecture
-- Clear folder structure for scalability
-- Easily customizable design
+✨ Key Features
+🧱 Movie Structure Breakdown
+Create full movies with a modular structure.
+Each movie contains multiple scenes to represent major narrative sections.
+🎞️ Scene & Sequence Management
+Scenes are divided into sequences, allowing for granular control of each moment.
+Organize your story like a professional screenplay, from opening shots to climactic moments.
+🖊️ Prompt-Based Generation
+Add prompts for each sequence to describe visuals, mood, or action.
+Prompts can be:
+✏️ Edited
+❌ Deleted
+➕ Added dynamically
+🧠 AI-Powered Visuals (MidJourney Integration)
+Generate stunning images from prompts using MidJourney.
 - 🧩 **Task for student:** Implement Drag and Drop (DnD) functionality for ordering `prompt items.
 
 ---
